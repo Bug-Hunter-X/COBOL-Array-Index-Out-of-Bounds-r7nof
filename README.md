@@ -1,0 +1,1 @@
+This repository demonstrates a common error in COBOL programs: array index out of bounds. The `bug.cob` file contains code that attempts to access an array element beyond its defined bounds, leading to unpredictable behavior. The `bugSolution.cob` file provides a corrected version of the code that handles array access correctly, thus preventing the error.
